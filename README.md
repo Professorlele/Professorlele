@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Professorlele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou o Professor lele
+- 👀 Tenho interesse em Programação e Tecnologia
+- 🌱 Atualmente estou aprendendo Java script
+- 💞️ 
+- 📫 email de contato: l.polin@escola.pr.gov.br
 
 <!---
 Professorlele/Professorlele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
